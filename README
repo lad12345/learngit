@@ -2,10 +2,5 @@ first write readme
 second write readme
 git has a call name stage
 git tracks changes of file
-<<<<<<< HEAD
 Create a New branch is quick
 Creating a new branch is quicl and simple
-=======
-Create a New branch is quick
-Creating a new branch is quick and simple
->>>>>>> feature1
